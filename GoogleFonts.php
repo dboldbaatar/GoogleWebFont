@@ -140,7 +140,6 @@ $hadgalahzam = '/style/fonts/';
 
 /*
 	Домайн нэр
-	Хэрэв Wordpress ашиглаж байгаа бол get_stylesheet_directory_uri(); энэ функцийг ашиглаж болно;
 */
 
 $domainname = get_stylesheet_directory_uri();
